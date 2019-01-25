@@ -33,8 +33,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	width:15%;
 	margin:0 auto;
 	float: left;
-	min-height: 60px;
-	max-height: 120px;
+	min-height: 120px;
 	text-align: center;
 	padding-top: 14px;
 }
@@ -59,7 +58,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	float: left;
 	width: 100%;/*90*/
 	text-align:right;
-	padding: 1em 5em 0 0;
+	padding: 1em 0 0 0;
 	min-height: 60px /*my comment*/
 }
 .online{
