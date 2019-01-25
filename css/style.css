@@ -1468,7 +1468,8 @@ h6.your-in {
 }
 .header-in {
   width: 100%;
-  padding: 1em 3em;
+  /*padding: 1em 3em;*/
+padding: 0.5em 1em;	
 }
 .header-bottom-in {
   padding: 0.5em 0 0;
