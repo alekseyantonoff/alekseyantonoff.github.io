@@ -1557,7 +1557,7 @@ a.create {
 .logo {
   width: 30%;
   padding-top: 20px;
-    min-height: 94px;
+  /*min-height: 94px;*/
 }
 .header-top {
   width: 70%;
