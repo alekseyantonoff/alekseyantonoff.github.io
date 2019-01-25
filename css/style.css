@@ -1328,8 +1328,9 @@ a.sign {
     border-bottom: none;
 }
 .header-in {
-  width: 76%;
-  padding: 1em 4em 0 0;
+  /*width: 76%;*/
+  /*padding: 1em 4em 0 0;*/
+padding: 0.5em 1em;
 }
 .online {
   width: 24%;
