@@ -33,13 +33,16 @@ h1,h2,h3,h4,h5,h6,label,p{
 	width:15%;
 	margin:0 auto;
 	float: left;
-	min-height: 120px;
+	min-height: 120px; /*60px*/
 	text-align: center;
 	padding-top: 14px;
 }
 .header-grid li{
 	display:inline-block;
-	  padding: 0 1em;
+	padding: 0 1em;
+	text-decoration:none;/*my comment*/
+	color:#7a7a7a;/*my comment*/
+	font-size:1.2em;/*my comment*/
 }
 .header-grid li a{
 	text-decoration:none;
@@ -48,14 +51,15 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .header-top{
 	float:left;
-	width:85%;
+	width:85%; /*85*/
 	background:#2f2f2f;
 }
 .header-in {
 	float: left;
-	width: 90%;
+	width: 100%;/*90*/
 	text-align:right;
 	padding: 1em 5em 0 0;
+	min-height: 60px /*my comment*/
 }
 .online{
 	float:left;
@@ -1065,21 +1069,23 @@ span.price-in small{
 .run-top{
 	background:#4d4d4d;
 	padding:3em 2em;
-	min-height: 270px;
+	min-height: 221px; /*270*/
 }
 .run-grid{
 	float:left;
-	width:50%;
+	width:100%; /*60%*/
 }
 .run-grid  li,.run-grid-in li{
-	list-style:none;
-}
-.run-grid li a,.run-grid-in li a{
 	padding: 0.2em 0;
 	color: #ededed;
-	font-size: 1.2em;
+	list-style:none;
+}
+.run-grid li a,.run-grid-in li a{ /*my comment*/
+	/*padding: 0.2em 0;*/
+	color: #ededed;
+	/*font-size: 1.2em;*/
 	text-decoration: none;
-	display: block;
+	/*display: block;*/
 }
 .run-grid li a:hover,.run-grid-in li a:hover{
 	color: #d2232a;
@@ -1089,7 +1095,7 @@ span.price-in small{
 }
 .top-run {
 	background:#333333;
-	min-height: 270px;
+	min-height: 221px; /*270*/
 }
 .run-grid-in{
 	background:#333333;
@@ -1168,7 +1174,7 @@ ul.social-in li  i.twitter:hover{
 }
 p.footer-class {
   font-size: 1em;
-  color: #fff;
+  color: #7a7a7a; /*fff*/
     padding: 0.5em 0;
 }
 p.footer-class a{
