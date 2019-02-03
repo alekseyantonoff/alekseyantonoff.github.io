@@ -1478,7 +1478,7 @@ padding: 0.5em 1em;
   font-size: 1.2em;
 }
 .header-bottom {
-  padding: 1em ;
+  /*padding: 1em ;*/
 }
 .banner-matter h1 {
   font-size: 1.5em;
