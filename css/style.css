@@ -345,7 +345,7 @@ select.in-drop {
         display: block;
     }
     .nav > li {
-        float: none;
+        float: left; /*none*/
     }
     .nav > li > .parent {
         background-position: 95% 50% !important;
