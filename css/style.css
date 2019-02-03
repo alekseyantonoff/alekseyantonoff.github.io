@@ -1573,7 +1573,7 @@ a.create {
   display: none;
 }
 .header-bottom {
-  padding: 0.5em 1em;
+  /*padding: 0.5em 1em;*/
 }
 .toggleMenu {
   font-size: 1em;
