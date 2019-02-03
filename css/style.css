@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	padding: 4px 15px;
 	text-decoration:none;/*my comment*/
 	color:#7a7a7a;/*my comment*/
-	font-size:1.2em;/*my comment*/
+	/*font-size:1.2em; my comment*/
 }
 .header-grid li a{
 	text-decoration:none;
