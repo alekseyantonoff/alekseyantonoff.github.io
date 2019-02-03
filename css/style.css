@@ -1567,7 +1567,7 @@ a.create {
   padding: 0.5em 1em;
 }
 .header-grid li {
-  padding: 0 0.5em;
+  padding: 0 0 0 0; /*0 0.5em*/
 }
 .search-box {
   display: none;
