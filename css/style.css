@@ -52,10 +52,10 @@ h1,h2,h3,h4,h5,h6,label,p{
 	background:#2f2f2f;
 }
 .header-in {
-	float: left;
-	width: 90%;
+	/*float: left;*/
+	/*width: 90%;*/
 	text-align:right;
-	padding: 1em 5em 0 0;
+	padding: 1em; /*1em 5em 0 0*/
 	min-hight: 60px;
 }
 .online{
