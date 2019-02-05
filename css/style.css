@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .online{
 	float:left;
-	background:#d2232a; /*#000*/
+	background:#000;
 	width: 10%;
 	text-align: center;
 	min-height: 60px;
@@ -1201,14 +1201,13 @@ ul.social-in {
 .footer-left h4 {
   padding: 1.3em;
   font-size: 1.4em;
-  min-height: 73.5667px; /*my comment*/
 }
 .bottom-grid {
   padding: 1.55em;
     min-height: 666px;
 }
 .letter {
-  min-height: 270px;
+  min-height: 269px;
 }
 .news span {
   font-size: 2.8em;
